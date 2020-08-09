@@ -49,16 +49,16 @@ Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe M
 
 | Component                        |                                          |
 |----------------------------------|------------------------------------------|
-| Defensive Origins Github         | [Defensive Origins - GitHub][15]         |
-| APT - Azure Terraform Programing | [Applied Purple Teaming Threat Optics Lab - Azure Terraform][16] |
-| APT - Fast Optics Build Scripts  | [Applied Purple Teaming Threat Optics Lab - Fast Optics Stack][17] |
-| APT - Additional Lab Components  | [Atomic Purple Team Framework][18]<br>[APT LabPack][19] |
+| Defensive Origins Github         | [Defensive Origins - GitHub][12]         |
+| APT - Azure Terraform Programing | [Applied Purple Teaming Threat Optics Lab - Azure Terraform][13] |
+| APT - Fast Optics Build Scripts  | [Applied Purple Teaming Threat Optics Lab - Fast Optics Stack][14] |
+| APT - Additional Lab Components  | [Atomic Purple Team Framework][15]<br>[APT LabPack][16] |
 
 
 ### Workshop Venue & Hosts
-* [Defcon 28][12]
-* [Red Team Village][13]
-* [Defensive Origins][14]
+* [Defcon 28][17]
+* [Red Team Village][18]
+* [Defensive Origins][19]
 
 ### Threat Optics
 * [OlafHartong: Sysmon Modular][20]
@@ -70,14 +70,16 @@ Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe M
 * [NSA: Windows Event Forwarding - NT6 Subscription][26]
 * [Palanatir: Windows Event Forwarding​][27]
 * [Elastic: WinlogBeat Configuration][28]
+* [How to Deploy Windows Optics - Commands, Downloads, Instructions][29]
+ 
 
 ### Attack Tools
-* [Mitre: Technique 00024​][29]
-* [Byt3Bl33d3r: SilentTrinity C2][30]
-* [SpiderLabs: Responder][31]
-* [SecureAuthCorp: Impacket][32]
-* [SecureAuthCorp: Impacket - NTLMRelayx][33]
-* [Byt3Bl33d3r: CrackMapExec​][34]
+* [Mitre: Technique 00024​][30]
+* [Byt3Bl33d3r: SilentTrinity C2][31]
+* [SpiderLabs: Responder][32]
+* [SecureAuthCorp: Impacket][33]
+* [SecureAuthCorp: Impacket - NTLMRelayx][34]
+* [Byt3Bl33d3r: CrackMapExec​][35]
 
 ## Published Recording
 * https://www.youtube.com/watch?v=xseK8BhN0vg
@@ -96,14 +98,14 @@ Portions of this content are owned by Defensive Origins.  Please note each sourc
   [9]: Slides/DCSM0020-ThreatOptics.pdf
   [10]: Slides/DCSM0025-BuildLabEnvironment.pdf
   [11]: Slides/DCSM0030-Workshop-Labs.pdf
-  [12]: https://www.defcon.org/html/defcon-28/dc-28-index.html
-  [13]: https://redteamvillage.io/training.html
-  [14]: https://defensiveorigins.com
-  [15]: https://github.com/DefensiveOrigins
-  [16]: https://github.com/DefensiveOrigins/APT-Lab-Terraform
-  [17]: https://github.com/DefensiveOrigins/APT-Lab-FastOpticsSetup
-  [18]: https://github.com/DefensiveOrigins/AtomicPurpleTeam
-  [19]: https://github.com/DefensiveOrigins/LABPACK
+  [12]: https://github.com/DefensiveOrigins
+  [13]: https://github.com/DefensiveOrigins/APT-Lab-Terraform
+  [14]: https://github.com/DefensiveOrigins/APT-Lab-FastOpticsSetup
+  [15]: https://github.com/DefensiveOrigins/AtomicPurpleTeam
+  [16]: https://github.com/DefensiveOrigins/LABPACK
+  [17]: https://www.defcon.org/html/defcon-28/dc-28-index.html
+  [18]: https://redteamvillage.io/training.html
+  [19]: https://defensiveorigins.com
   [20]: https://github.com/olafhartong/sysmon-modular
   [21]: https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon​
   [22]: https://youtu.be/_MUP4tgdM7s%20
@@ -113,9 +115,10 @@ Portions of this content are owned by Defensive Origins.  Please note each sourc
   [26]: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Subscriptions/NT6​
   [27]: https://github.com/palantir/windows-event-forwarding​
   [28]: https://www.elastic.co/guide/en/beats/winlogbeat/current/configuration-winlogbeat-options.html#configuration-winlogbeat-options-event_logs-name​
-  [29]: https://attack.mitre.org/tactics/TA0024/​
-  [30]: https://github.com/byt3bl33d3r/SILENTTRINITY​
-  [31]: https://github.com/SpiderLabs/Responder
-  [32]: https://github.com/SecureAuthCorp/impacket
-  [33]: https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
-  [34]: https://github.com/byt3bl33d3r/CrackMapExec/wiki​
+  [29]: *%20%20https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/
+  [30]: https://attack.mitre.org/tactics/TA0024/​
+  [31]: https://github.com/byt3bl33d3r/SILENTTRINITY​
+  [32]: https://github.com/SpiderLabs/Responder
+  [33]: https://github.com/SecureAuthCorp/impacket
+  [34]: https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
+  [35]: https://github.com/byt3bl33d3r/CrackMapExec/wiki​
