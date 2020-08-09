@@ -9,12 +9,11 @@ Defensive Origins was invited to prensent a 2 hour workshop at Defcon 28 - Safe 
 
 ## Content
 <!-- Start Document Outline -->
-
-* [Content](#content)
-* [Slide Decks for Talk](#slide-decks-for-talk)
-* [Links](#links)
+* [About The Instructors](#about-the-instructors)
+* [The 4 Day / 16 Hour Course:](#the-4-day--16-hour-course)
+* [Slide Decks](#slide-decks)
+* [Workshop Tooling](#workshop-tooling)
 	* [Workshop Venue &amp; Hosts](#workshop-venue--hosts)
-	* [APT Framework and Lab Environment](#apt-framework-and-lab-environment)
 	* [Threat Optics](#threat-optics)
 	* [Attack Tools](#attack-tools)
 * [Published Recording](#published-recording)
@@ -24,68 +23,97 @@ Defensive Origins was invited to prensent a 2 hour workshop at Defcon 28 - Safe 
 
 ---
 
-## Slide Decks for Talk
-* /slides/
+## About The Instructors
+* [Defensive Origins][1]
+* [Black Hills Information Security - Security Analysts ][2]
 
-## Links
+| Jordan Drysdale                          | Kent Ickler                              |
+|------------------------------------------|------------------------------------------|
+| Twitter: [@Rev10D][3]<br>LinkedIn: [Jordan Drysdale][4]<br>Discord: Rev10D | Twitter: [KRelkci][5]<br>LinkedIn: [Kent Ickler][6]<br>Discord: Relkci2 |
+
+
+## The 4 Day / 16 Hour Course: 
+* Find out 4-day / 16 Hour Training ($495): [Defensive Origins Training][7]
+
+
+## Slide Decks 
+| Section                                  | Link                               |
+|------------------------------------------|------------------------------------|
+| Intro and Atomic Purple Team Lifecycle   | [DCSM0010-AtomicPurpleTeamLifecycle ][8]|
+| Threat Optics                            | [DCSM0020-ThreatOptics][9]              |
+| Azure Lab Build                          | [DCSM0025-BuildLabEnvironment][10]       |
+| Attack, Hunt/Detect, Defend Workshop Labs | [DCSM0030-Workshop-Labs][11]             |
+
+## Workshop Tooling
+| Component                        |                                          |
+|----------------------------------|------------------------------------------|
+| Defensive Origins Github         | [Defensive Origins - GitHub][15]         |
+| APT - Azure Terraform Programing | [Applied Purple Teaming Threat Optics Lab - Azure Terraform][16] |
+| APT - Fast Optics Build Scripts  | [Applied Purple Teaming Threat Optics Lab - Fast Optics Stack][17] |
+| APT - Additional Lab Components  | [Atomic Purple Team Framework][18]<br>[APT LabPack][19] |
+
 
 ### Workshop Venue & Hosts
-* [Defcon 28][1]
-* [Red Team Village][2]
-* [Defensive Origins][3]
-
-### APT Framework and Lab Environment
-
-* [Defensive Origins - GitHub][4]
-* [Applied Purple Teaming Threat Optics Lab - Azure Terraform][5]
-* [Applied Purple Teaming Threat Optics Lab - Fast Optics Stack][6]
-* [Atomic Purple Team Framework][7]
-* [APT LabPack][8]
+* [Defcon 28][12]
+* [Red Team Village][13]
+* [Defensive Origins][14]
 
 ### Threat Optics
-* [OlafHartong: Sysmon Modular][9]
-* [Microsoft: Sysmon​][10]
-* [Mark Russinovich: Explanation of EventID 23][11]
-* [Microsoft: Windows Event Forwarding][12]
-* [Microsoft: Windows Event Forwarding Survival Guide][13]
-* [NSA: Event Forwarding Guidance​][14]
-* [NSA: Windows Event Forwarding - NT6 Subscription][15]
-* [Palanatir: Windows Event Forwarding​][16]
-* [Elastic: WinlogBeat Configuration][17]
+* [OlafHartong: Sysmon Modular][20]
+* [Microsoft: Sysmon​][21]
+* [Mark Russinovich: Explanation of EventID 23][22]
+* [Microsoft: Windows Event Forwarding][23]
+* [Microsoft: Windows Event Forwarding Survival Guide][24]
+* [NSA: Event Forwarding Guidance​][25]
+* [NSA: Windows Event Forwarding - NT6 Subscription][26]
+* [Palanatir: Windows Event Forwarding​][27]
+* [Elastic: WinlogBeat Configuration][28]
 
 ### Attack Tools
-* [Mitre: Technique 00024​][18]
-* [Byt3Bl33d3r: SilentTrinity C2][19]
-* [SpiderLabs: Responder][20]
-* [SecureAuthCorp: Impacket][21]
-* [SecureAuthCorp: Impacket - NTLMRelayx][22]
-* [Byt3Bl33d3r: CrackMapExec​][23]
+* [Mitre: Technique 00024​][29]
+* [Byt3Bl33d3r: SilentTrinity C2][30]
+* [SpiderLabs: Responder][31]
+* [SecureAuthCorp: Impacket][32]
+* [SecureAuthCorp: Impacket - NTLMRelayx][33]
+* [Byt3Bl33d3r: CrackMapExec​][34]
 
 ## Published Recording
+* https://www.youtube.com/watch?v=xseK8BhN0vg
 
 ## License
 Portions of this content are owned by Defensive Origins.  Please note each source repository may hold its own licensing.  Additionally, Defcon and Red Team Village images have been used with permission for this recorded event.
 
-  [1]: https://www.defcon.org/html/defcon-28/dc-28-index.html
-  [2]: https://redteamvillage.io/training.html
-  [3]: https://defensiveorigins.com
-  [4]: https://github.com/DefensiveOrigins
-  [5]: https://github.com/DefensiveOrigins/APT-Lab-Terraform
-  [6]: https://github.com/DefensiveOrigins/APT-Lab-FastOpticsSetup
-  [7]: https://github.com/DefensiveOrigins/AtomicPurpleTeam
-  [8]: https://github.com/DefensiveOrigins/LABPACK
-  [9]: https://github.com/olafhartong/sysmon-modular
-  [10]: https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon​
-  [11]: https://youtu.be/_MUP4tgdM7s%20
-  [12]: https://docs.microsoft.com/en-us/windows/security/threat-protection/use-windows-event-forwarding-to-assist-in-intrusion-detection​
-  [13]: https://social.technet.microsoft.com/wiki/contents/articles/33895.windows-event-forwarding-survival-guide.aspx​
-  [14]: https://github.com/nsacyber/Event-Forwarding-Guidance​
-  [15]: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Subscriptions/NT6​
-  [16]: https://github.com/palantir/windows-event-forwarding​
-  [17]: https://www.elastic.co/guide/en/beats/winlogbeat/current/configuration-winlogbeat-options.html#configuration-winlogbeat-options-event_logs-name​
-  [18]: https://attack.mitre.org/tactics/TA0024/​
-  [19]: https://github.com/byt3bl33d3r/SILENTTRINITY​
-  [20]: https://github.com/SpiderLabs/Responder
-  [21]: https://github.com/SecureAuthCorp/impacket
-  [22]: https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
-  [23]: https://github.com/byt3bl33d3r/CrackMapExec/wiki​
+  [1]: https://defensiveorigins.com/about-us/
+  [2]: https://www.blackhillsinfosec.com/about/security-analysts/
+  [3]: https://twitter.com/Rev10D
+  [4]: https://www.linkedin.com/in/jordandrysdale/
+  [5]: https://twitter.com/Krelkci
+  [6]: https://www.linkedin.com/in/kentickler/
+  [7]: https://github.com/DefensiveOrigins/Training
+  [8]: Slides/DCSM0010-AtomicPurpleTeamLifecycle.pdf
+  [9]: Slides/DCSM0020-ThreatOptics.pdf
+  [10]: Slides/DCSM0025-BuildLabEnvironment.pdf
+  [11]: Slides/DCSM0030-Workshop-Labs.pdf
+  [12]: https://www.defcon.org/html/defcon-28/dc-28-index.html
+  [13]: https://redteamvillage.io/training.html
+  [14]: https://defensiveorigins.com
+  [15]: https://github.com/DefensiveOrigins
+  [16]: https://github.com/DefensiveOrigins/APT-Lab-Terraform
+  [17]: https://github.com/DefensiveOrigins/APT-Lab-FastOpticsSetup
+  [18]: https://github.com/DefensiveOrigins/AtomicPurpleTeam
+  [19]: https://github.com/DefensiveOrigins/LABPACK
+  [20]: https://github.com/olafhartong/sysmon-modular
+  [21]: https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon​
+  [22]: https://youtu.be/_MUP4tgdM7s%20
+  [23]: https://docs.microsoft.com/en-us/windows/security/threat-protection/use-windows-event-forwarding-to-assist-in-intrusion-detection​
+  [24]: https://social.technet.microsoft.com/wiki/contents/articles/33895.windows-event-forwarding-survival-guide.aspx​
+  [25]: https://github.com/nsacyber/Event-Forwarding-Guidance​
+  [26]: https://github.com/nsacyber/Event-Forwarding-Guidance/tree/master/Subscriptions/NT6​
+  [27]: https://github.com/palantir/windows-event-forwarding​
+  [28]: https://www.elastic.co/guide/en/beats/winlogbeat/current/configuration-winlogbeat-options.html#configuration-winlogbeat-options-event_logs-name​
+  [29]: https://attack.mitre.org/tactics/TA0024/​
+  [30]: https://github.com/byt3bl33d3r/SILENTTRINITY​
+  [31]: https://github.com/SpiderLabs/Responder
+  [32]: https://github.com/SecureAuthCorp/impacket
+  [33]: https://github.com/SecureAuthCorp/impacket/blob/master/examples/ntlmrelayx.py
+  [34]: https://github.com/byt3bl33d3r/CrackMapExec/wiki​
