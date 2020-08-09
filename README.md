@@ -29,7 +29,7 @@ Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe M
 
 | Jordan Drysdale                          | Kent Ickler                              |
 |------------------------------------------|------------------------------------------|
-| Twitter: [@Rev10D][3]<br>LinkedIn: [Jordan Drysdale][4]<br>Discord: Rev10D | Twitter: [KRelkci][5]<br>LinkedIn: [Kent Ickler][6]<br>Discord: Relkci2 |
+| Twitter: [@Rev10D][3]<br>LinkedIn: [Jordan Drysdale][4]<br>Discord: Rev10D | Twitter: [KRelkci][5]<br>LinkedIn: [Kent Ickler][6]<br>Discord: Relkci |
 
 
 ## The 4 Day / 16 Hour Course: 
