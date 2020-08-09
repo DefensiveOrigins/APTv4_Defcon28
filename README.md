@@ -5,7 +5,7 @@
 
 ---
 ## Defcon 28 - Red Team Village - Workshop
-Defensive Origins was invited to prensent a 2 hour workshop at Defcon 28 - Safe Mode for the Red Team Village.  The scheduled time for workshop was August 9th, 2:00 PM MST.
+Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe Mode for the Red Team Village.  The scheduled time for workshop was August 9th, 2:00 PM MST.
 
 ## Content
 <!-- Start Document Outline -->
