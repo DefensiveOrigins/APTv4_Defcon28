@@ -33,7 +33,7 @@ Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe M
 
 
 ## The 4 Day / 16 Hour Course: 
-* Find out 4-day / 16 Hour Training ($495): [Defensive Origins Training][7]
+* Find our 4-day / 16 Hour Training ($495): [Defensive Origins Training][7]
 
 
 ## Slide Decks 
