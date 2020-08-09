@@ -37,6 +37,7 @@ Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe M
 
 
 ## Slide Decks 
+
 | Section                                  | Link                               |
 |------------------------------------------|------------------------------------|
 | Intro and Atomic Purple Team Lifecycle   | [DCSM0010-AtomicPurpleTeamLifecycle ][8]|
@@ -45,6 +46,7 @@ Defensive Origins was invited to present a 2 hour workshop at Defcon 28 - Safe M
 | Attack, Hunt/Detect, Defend Workshop Labs | [DCSM0030-Workshop-Labs][11]             |
 
 ## Workshop Tooling
+
 | Component                        |                                          |
 |----------------------------------|------------------------------------------|
 | Defensive Origins Github         | [Defensive Origins - GitHub][15]         |
